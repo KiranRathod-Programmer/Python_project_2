@@ -1,4 +1,4 @@
-#4. CLI Based weather fetcher based on location (Learn about API Calls)
+#4. CLI Based weather fetcher based on location
 
 import requests
 import json
